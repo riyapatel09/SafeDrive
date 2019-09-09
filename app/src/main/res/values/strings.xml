@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SafeDrive</string>
+    <string name="action_settings">Settings</string>
+    <string name="blankerror">Required..</string>
+    <string name="emailerror">Enter a valid email..</string>
+    <string name="passworderror">Enter a valid password..</string>
+    <string name="confirmPassworderror">Password do not match..</string>
+    <string name="mobileNoerror">Mobile no invalid..</string>
+    <string name="title_activity_map">Map</string>
+    <string name="network_timeout_error">Network Timeout Error</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
